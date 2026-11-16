@@ -1,0 +1,2 @@
+# Optional: regenerate the included design PDF. Not required by the application.
+reportlab==5.0.1

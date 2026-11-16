@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+.coverage
+submission.zip
+
+# Keep credentials and local configuration out of future commits.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*

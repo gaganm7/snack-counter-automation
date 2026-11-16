@@ -1,0 +1,2 @@
+# zoneinfo uses the operating system database on Linux/macOS; Windows needs this.
+tzdata==2026.2
